@@ -1,6 +1,6 @@
 'use strict'
 // ---- Config: set window.MINDBLOOM_API_URL before this script to change the backend address ----
-const API_URL = (window.MINDBLOOM_API_URL || 'http://127.0.0.1:8000').replace(/\/$/, '')
+const API_URL = (window.MINDBLOOM_API_URL || 'https://mindbloom-mental-wellness.onrender.com').replace(/\/$/, '')
 const AXIS_MAX = 10 // visual reference axis only; no thresholds or categories are implied
 
 // ---------- Voice parsing ----------

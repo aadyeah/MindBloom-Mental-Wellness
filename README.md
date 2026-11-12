@@ -5,7 +5,7 @@
 ### *Breathe. Reflect. Thrive.*
 
 **A warm, interactive mental wellness companion for students, powered by a machine learning model.**
-https://github.com/aadyeah/MindBloom-Mental-Wellness
+https://aadyeah.github.io/MindBloom-Mental-Wellness/
 
 ![HTML5](https://img.shields.io/badge/HTML5-D4AF37?style=for-the-badge&logo=html5&logoColor=28251F)
 ![CSS3](https://img.shields.io/badge/CSS3-CE8946?style=for-the-badge&logo=css3&logoColor=FFFEF8)
